@@ -1,5 +1,4 @@
 #import q.std;
-#import q.AWT;
 
 fn print(x):
 
