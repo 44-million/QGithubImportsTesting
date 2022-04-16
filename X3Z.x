@@ -1,4 +1,4 @@
-#import q.AWT;
+#import q.NonExistant;
 
 fn X3Z():
   std::cout("ERROR");
